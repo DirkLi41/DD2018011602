@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "400272722763",
+    "firebase_url": "https://dd2018011602.firebaseio.com",
+    "project_id": "dd2018011602",
+    "storage_bucket": "dd2018011602.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400272722763:android:34b5f08c11adb990",
+        "android_client_info": {
+          "package_name": "tw.com.pcschool.dd2018011602"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400272722763-9oa9uqj0bmlmefpajj2hk8sghrtbf97m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tw.com.pcschool.dd2018011602",
+            "certificate_hash": "d1ff267c0c33df5bdfcedf73507b657212010860"
+          }
+        },
+        {
+          "client_id": "400272722763-3fhs21q7d0o7vtcgs5ttvm3t3kvpeidk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuCIU41Rbu0HoBE_CTfeuPHIKR66hV7-A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400272722763-3fhs21q7d0o7vtcgs5ttvm3t3kvpeidk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
